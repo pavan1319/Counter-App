@@ -1,0 +1,10 @@
+.Counter {
+    background-color: burlywood;
+    text-align: center;
+}
+
+.Counter button{
+    background-color: cadetblue;
+    margin: auto;
+    padding: 10% 20%;
+}
